@@ -17,3 +17,4 @@ How I'd like to use this:
 What I'd like it to do in the future
 - Integrate PR templates in the body input
 - Maybe not add all commits. If the whole team works on trunk, not all commits will be relevant to a specific feature
+- An easy way to pick start and end commit
